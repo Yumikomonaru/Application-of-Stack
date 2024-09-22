@@ -136,3 +136,7 @@ int main() {
     
     return 0;
 }
+
+
+// Inpute: 3 + 5 - 2 * 3 / 2
+// Result: 5
